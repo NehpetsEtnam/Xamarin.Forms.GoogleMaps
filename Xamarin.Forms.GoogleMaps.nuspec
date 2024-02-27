@@ -96,8 +96,8 @@ full release notes is here - https://github.com/amay077/Xamarin.Forms.GoogleMaps
         <dependency id="Xamarin.Forms" version="5.0.0.2012" />
       </group>
       <group targetFramework="MonoAndroid10.0">
-        <dependency id="Xamarin.GooglePlayServices.Maps" version="118.0.2.2"/>
-        <dependency id="Xamarin.AndroidX.AppCompat" version="1.2.0.5"/>
+        <dependency id="Xamarin.GooglePlayServices.Maps" version="118.2.0.1"/>
+        <dependency id="Xamarin.AndroidX.AppCompat" version="1.2.0.6"/>
       </group>
       <group targetFramework="Xamarin.iOS10">
         <dependency id="Xamarin.Google.iOS.Maps" version="6.0.1.1"/>
